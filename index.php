@@ -11,7 +11,7 @@
     <a href="view.php">videos</a>
     <form action="upload.php" method="post" enctype="multipart/form-data">
         <input type="file" name="my_video" id="">
-        <input type="submit" name="submit" value="upload">
+        <input type="submit" name="submit" value="uploadsujeetbg">
     </form>
 </body>
 </html>
